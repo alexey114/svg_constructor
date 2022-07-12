@@ -1,0 +1,13 @@
+.fieldsContainer{
+  margin: 0 auto;
+  border: solid 1px blue;
+}
+
+.buttonBox{
+  margin: 0 auto;
+  text-align: center;
+}
+
+.front_side{
+  margin: 20px;
+}
